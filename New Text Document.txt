@@ -1,7 +1,4 @@
-<ion-header>
-  <ion-navbar>
-    <ion-title>My Home</ion-title>
-  </ion-navbar>
+Anurak saesieo</ion-navbar>
 </ion-header>
  
 <ion-content padding>
