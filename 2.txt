@@ -9,14 +9,6 @@
   ],
  
 //...
- 
-  entryComponents: [
-    MyApp,
-    AboutPage,
-    ContactPage,
-    HomePage,
-    TabsPage,
-    InfoPage
-  ],
+Saesiao
    
 //...
